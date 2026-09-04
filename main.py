@@ -32,7 +32,7 @@ from telegram.ext import (
 # IMPORTANT:
 # The old token was exposed in chat. Revoke it in BotFather
 # and paste the NEW token here.
-BOT_TOKEN = "8852393910:AAHPbWJgIjRNFPToCMQP0mOzJ7NAcEljsOs"
+BOT_TOKEN = "8877327819:AAG4iNyOkWcYOMneqcn9m91-uY7_3dGVflI"
 
 OWNER_ID = 8662263918
 
